@@ -2,13 +2,17 @@ h1 {
     color:aqua;
 }
 p {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center ;
+
     color:rgb(0, 0, 0);
     text-shadow: 
         0.07em 0 black,
         0. 0.07em black,
         -0.07em black,
         0 -0.07em black;
- 
+        
 }
 
 body {
